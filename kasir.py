@@ -74,3 +74,4 @@ while pilihan == "x" :
         print("Total Pembayaran = ",diskon)
     elif jumlah < 5:
         print("Total Pembayaran = ",total)
+    break
